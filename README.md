@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Rohit Nagabathula</h1>
-<h3>GenAI Engineer · LLM Systems · AI Infrastructure</h3>
+<h3>GenAI Engineer · LLM Systems</h3>
 
 </div>
 
